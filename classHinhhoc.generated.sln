@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classHinhhoc", "classHinhhoc.csproj", "{DA4F95E2-17BB-4753-9DF6-8580E250C743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4F95E2-17BB-4753-9DF6-8580E250C743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4F95E2-17BB-4753-9DF6-8580E250C743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4F95E2-17BB-4753-9DF6-8580E250C743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4F95E2-17BB-4753-9DF6-8580E250C743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9B24137-A483-4890-B158-FF69C02439E8}
+	EndGlobalSection
+EndGlobal

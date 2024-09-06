@@ -1,0 +1,14 @@
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\classHinhhoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\classHinhhoc.AssemblyInfoInputs.cache
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\classHinhhoc.AssemblyInfo.cs
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\classHinhhoc.csproj.CoreCompileInputs.cache
+E:\hoctap\classHinhhoc\bin\Debug\net8.0\classHinhhoc.exe
+E:\hoctap\classHinhhoc\bin\Debug\net8.0\classHinhhoc.deps.json
+E:\hoctap\classHinhhoc\bin\Debug\net8.0\classHinhhoc.runtimeconfig.json
+E:\hoctap\classHinhhoc\bin\Debug\net8.0\classHinhhoc.dll
+E:\hoctap\classHinhhoc\bin\Debug\net8.0\classHinhhoc.pdb
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\classHinhhoc.dll
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\refint\classHinhhoc.dll
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\classHinhhoc.pdb
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\classHinhhoc.genruntimeconfig.cache
+E:\hoctap\classHinhhoc\obj\Debug\net8.0\ref\classHinhhoc.dll

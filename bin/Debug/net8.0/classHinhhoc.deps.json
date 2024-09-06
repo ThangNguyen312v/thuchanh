@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "classHinhhoc/1.0.0": {
+        "runtime": {
+          "classHinhhoc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classHinhhoc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
